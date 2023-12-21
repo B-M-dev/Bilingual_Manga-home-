@@ -1,11 +1,15 @@
 # NOTES
+Download and install Nodejs from https://nodejs.org if you haven't already.
+
+**Move the .json files in db_files folder to json folder in bm_build(home)**
+
 There is no progress bar for checking downloads
 (you can make it up by checking the size of the ipfs directory periodically)
 
 You cannot cancel a download while it is still in progress but you can delete 
 it once it's downloaded or by restarting the app.
 
-Update the website by manually replacing the json folder
+You can update the manga collection by manually replacing the json files in json folder with the latest ones uploaded to db_files folder
 
 You can use the website offline and read your downloaded manga by using this url http://0.0.0.0:3000.
 
